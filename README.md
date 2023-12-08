@@ -41,8 +41,8 @@ Using Power BI, the data was transformed and visualized to derive the following 
 4. **GitHub Repository:** Fork or clone this repository to explore the project and adapt it to your needs.
 
 ## Output 
-![5](https://github.com/Rajeshkannan-Muthukumar/Project_1-HR_ANALYTICS/assets/93901857/fbe052f6-c92c-4c44-a2ed-9617e946f35a)
-![2](https://github.com/Rajeshkannan-Muthukumar/Project_1-HR_ANALYTICS/assets/93901857/7631bada-4be6-4264-8693-5e20d5089a7f)
+
+![6](https://github.com/Rajeshkannan-Muthukumar/Project_1-HR_ANALYTICS/assets/93901857/2c50044c-9a25-4c7d-a7f9-1fa76fdac29d)
 
 
 ## Contributors
