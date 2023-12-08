@@ -1,6 +1,6 @@
 # HR_ANALYTICS
 
-This project is a copy project data transformation and analysis exercise focusing on employee attendance using Excel, Power BI, and DAX.The dataset is from Atliq, the HR provided these dataset to her Data Analyst to get various insights.
+This project is a copy project which invoolves data transformation and analysis exercise focusing on employee attendance using Excel, Power BI, and DAX.The dataset is from Atliq, the HR provided these dataset to her Data Analyst to get various insights.
 
 ## Overview
 
