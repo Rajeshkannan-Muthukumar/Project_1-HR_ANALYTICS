@@ -47,6 +47,10 @@ Using Power BI, the data was transformed and visualized to derive the following 
 
 ## Acknowledgments
 
-Special thanks to [AtliQ cofounder, Codebasics Creator - Dhaval Patel](https://www.linkedin.com/in/dhavalsays/),[AtliQ cofounder, Senior Data Analyst-Hemanand Vadivel](https://www.linkedin.com/in/hemvad/) , [Former HR Manager Pinali Mandalia](https://www.linkedin.com/in/pinali-mandalia/)for the insightful guidance and tutorial used as a basis for this project.
+Special thanks to
+               [AtliQ cofounder, Codebasics Creator - Dhaval Patel](https://www.linkedin.com/in/dhavalsays/),
+              [AtliQ cofounder, Senior Data Analyst-Hemanand Vadivel](https://www.linkedin.com/in/hemvad/) , 
+              [Former HR Manager Pinali Mandalia](https://www.linkedin.com/in/pinali-mandalia/)
+for the insightful guidance and tutorial used as a basis for this project.
 
 ---
